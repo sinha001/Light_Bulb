@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+}
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.btn{
+    padding: 15px;
+    background-color: yellowgreen;
+    color:black;
+    font-size: 2rem;
+}
